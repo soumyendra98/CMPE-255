@@ -37,6 +37,7 @@ Also if you have any great extensions/tips you found in visual studio code, incl
 
 
 SOLUTION
+
 I explored Github Copilot with Python and used it to write some basic python code like Loops, Funcitons, Lambda funcitons, Classes and Inheritance in Python. The link to the youtube video is given below.
 
 Link -> https://www.youtube.com/watch?v=ySk-vb1Ytuw
