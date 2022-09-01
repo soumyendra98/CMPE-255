@@ -1,1 +1,1 @@
-This repository contains all the assignments, term project and all other resources that was submitted by Soumyendra Shrivastava for the course CPME-255 taken in the fall 2022 semester at San José State University.
+This repository contains all the assignments, term project and all other resources that were submitted by Soumyendra Shrivastava for the course CPME-255 taken in the fall 2022 semester at San José State University as Part of his Master of Science in Software Engineering Curriculum.
