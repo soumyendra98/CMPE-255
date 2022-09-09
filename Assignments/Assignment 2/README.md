@@ -46,4 +46,4 @@ https://pycaret.gitbook.io/docs/learn-pycaret/official-blog
 SOLUTION
 
 I have implemented all the models in a google colab file and used different datasets from Kaggle to do so.
-The Link to the colab file is - https://colab.research.google.com/drive/1O30QHcphFz4HJWW6ssiICy_GOhDcGROd#scrollTo=-ZyJbXb8ccke
+The Link to the colab file is - https://colab.research.google.com/drive/1O30QHcphFz4HJWW6ssiICy_GOhDcGROd#scrollTo=_qb3e1VBL3uG
