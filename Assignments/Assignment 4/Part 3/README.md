@@ -15,4 +15,4 @@ I setup Databricks using Google Cloud.
 
 I built an End to End Simple ML with Data Preparation on Databricks on the [Gender Classification Dataset](https://www.kaggle.com/datasets/elakiricoder/gender-classification-dataset) from kaggle. 
 
-Link to Python Notebook - 
+Link to Python Notebook - https://github.com/soumyendra98/CMPE-255/blob/assignment-4/Assignments/Assignment%204/Part%203/First%20Databricks%20Notebook%20(CMPE%20-%20255).ipynb
